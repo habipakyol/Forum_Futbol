@@ -1,0 +1,11 @@
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\bin\Debug\net9.0\FootballForum.Infrastructure.deps.json
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\bin\Debug\net9.0\FootballForum.Infrastructure.dll
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\bin\Debug\net9.0\FootballForum.Infrastructure.pdb
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\FootballForum.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\FootballForum.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\FootballForum.Infrastructure.AssemblyInfo.cs
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\FootballForum.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\FootballForum.Infrastructure.dll
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\refint\FootballForum.Infrastructure.dll
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\FootballForum.Infrastructure.pdb
+C:\Users\AKYOL\FootballForum\src\Infrastructure\FootballForum.Infrastructure\obj\Debug\net9.0\ref\FootballForum.Infrastructure.dll

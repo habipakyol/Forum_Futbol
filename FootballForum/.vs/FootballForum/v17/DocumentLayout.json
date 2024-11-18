@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AKYOL\\FootballForum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|c:\\users\\akyol\\footballforum\\src\\infrastructure\\footballforum.persistence\\migrations\\20241118213718_updatecommententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|solutionrelative:src\\infrastructure\\footballforum.persistence\\migrations\\20241118213718_updatecommententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213245_UpdatePostEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213245_UpdatePostEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\wwwroot\\chat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118212024_UpdateMatchEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118212024_UpdateMatchEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118211437_UpdateBaseEntityNullableFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118211437_UpdateBaseEntityNullableFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118184817_UpdateUserProfilePicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118184817_UpdateUserProfilePicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\hubs\\matchchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\hubs\\matchchathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\controllers\\matchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|c:\\users\\akyol\\footballforum\\src\\footballforum.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561EA929-6C48-441D-A123-DEC07E6A860E}|src\\FootballForum.WebAPI\\FootballForum.WebAPI.csproj|solutionrelative:src\\footballforum.webapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|c:\\users\\akyol\\footballforum\\src\\infrastructure\\footballforum.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|solutionrelative:src\\infrastructure\\footballforum.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|c:\\users\\akyol\\footballforum\\src\\infrastructure\\footballforum.persistence\\migrations\\20241118175334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|solutionrelative:src\\infrastructure\\footballforum.persistence\\migrations\\20241118175334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|c:\\users\\akyol\\footballforum\\src\\core\\footballforum.domain\\footballforum.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76854C9B-04BB-4A12-99F5-B9095CF13C8F}|src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj|solutionrelative:src\\core\\footballforum.domain\\footballforum.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|c:\\users\\akyol\\footballforum\\src\\infrastructure\\footballforum.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E86246-1385-4152-907B-239813C63B42}|src\\Infrastructure\\FootballForum.Persistence\\FootballForum.Persistence.csproj|solutionrelative:src\\infrastructure\\footballforum.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241118213718_UpdateCommentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213718_UpdateCommentEntity.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213718_UpdateCommentEntity.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213718_UpdateCommentEntity.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213718_UpdateCommentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:37:19.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241118213245_UpdatePostEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213245_UpdatePostEntity.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213245_UpdatePostEntity.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213245_UpdatePostEntity.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118213245_UpdatePostEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:32:45.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chat.html",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\wwwroot\\chat.html",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\wwwroot\\chat.html",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\wwwroot\\chat.html",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\wwwroot\\chat.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-18T21:25:07.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241118212024_UpdateMatchEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118212024_UpdateMatchEntity.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118212024_UpdateMatchEntity.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118212024_UpdateMatchEntity.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118212024_UpdateMatchEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:20:25.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241118211437_UpdateBaseEntityNullableFields.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118211437_UpdateBaseEntityNullableFields.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118211437_UpdateBaseEntityNullableFields.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118211437_UpdateBaseEntityNullableFields.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118211437_UpdateBaseEntityNullableFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:14:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241118184817_UpdateUserProfilePicture.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118184817_UpdateUserProfilePicture.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118184817_UpdateUserProfilePicture.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118184817_UpdateUserProfilePicture.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118184817_UpdateUserProfilePicture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:48:17.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T18:38:33.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MatchChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Hubs\\MatchChatHub.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Hubs\\MatchChatHub.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Hubs\\MatchChatHub.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Hubs\\MatchChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:32:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:32:32.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:31:05.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MatchController.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\MatchController.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Controllers\\MatchController.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\MatchController.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Controllers\\MatchController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:29:33.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\PostController.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Controllers\\PostController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:28:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:27:57.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIAwwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:26:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241118175334_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118175334_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118175334_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118175334_InitialCreate.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Migrations\\20241118175334_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:53:34.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:48:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FootballForum.Domain",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\FootballForum.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T17:47:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T17:43:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\FootballForum.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\FootballForum.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\FootballForum.WebAPI\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:42:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FootballForum.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Infrastructure\\FootballForum.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FootballForum.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:37:22.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:29:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:25:44.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\Entities\\Match.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Match.cs",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\Entities\\Match.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:24:52.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Post.cs",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\Entities\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:24:31.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\Entities\\Team.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Entities\\Team.cs",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\Entities\\Team.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:23:58.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\FootballForum.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\AKYOL\\FootballForum\\src\\Core\\FootballForum.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\FootballForum.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:23:30.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
