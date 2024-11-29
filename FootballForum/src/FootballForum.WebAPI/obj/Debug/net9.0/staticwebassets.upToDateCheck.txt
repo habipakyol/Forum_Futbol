@@ -1,2 +1,0 @@
-C:\Users\AKYOL\FootballForum\src\FootballForum.WebAPI\wwwroot\chat.html
-wwwroot\chat.html
